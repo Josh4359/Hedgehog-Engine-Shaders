@@ -1,0 +1,15 @@
+{
+  "name": "com.josh.hedgehog-engine-shaders",
+  "version": "1.0.0",
+  "displayName": "Hedgehog Engine Shaders",
+  "description": "Hedgehog Engine Shaders for Unity",
+  "unity": "2022.3",
+  "unityRelease": "2f1",
+  "dependencies": {
+    "com.cyanilux.shadergraph-customlighting": "12.0.2"
+ },
+  "author": {
+    "name": "Josh",
+    "url": "https://github.com/Josh4359"
+  }
+}
